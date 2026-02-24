@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    background-image: url("ASSETS/compose.webp");
+    background-repeat: no-repeat;
+    color:white;
+}
+
+img{
+    width: 300px;
+    border: 5px solid white;
+    border-radius: 50px;
+}
+
+footer p{
+    color:yellow;
+
+}
+
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 100px;
+}
