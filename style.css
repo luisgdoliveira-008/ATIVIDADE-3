@@ -2,12 +2,12 @@ body{
     background-color:black;
     background-image: url("ASSETS/compose.webp");
     background-repeat: no-repeat;
-    color:white;
+    color:rgb(250, 250, 252);
 }
 
 img{
     width: 300px;
-    border: 5px solid white;
+    border: 5px solid rgb(36, 7, 201);
     border-radius: 50px;
 }
 
@@ -17,8 +17,8 @@ footer p{
 }
 
 h1{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: white;
+    font-family: 'Streamster', cursive;
+    color: rgb(236, 17, 17);
     font-size: 50px;
     text-align: center;
     padding: 100px;
